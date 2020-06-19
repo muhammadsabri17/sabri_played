@@ -1,0 +1,14 @@
+{
+    "name": "sabri/utssabri",
+    "description": "pemograman berbasis web lajutan uinsu muhammad sabri",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "muhammad sabri",
+            "email": "muhammadsabri829@gmail.com"
+        }
+    ]
+}
